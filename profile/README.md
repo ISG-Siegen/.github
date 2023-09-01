@@ -1,12 +1,13 @@
-## Hi there 👋
+Welcome to the Intelligent Systems Group (ISG), headed by Prof. Joeran Beel. We conduct research in recommender-systems (RecSys), personalization and information retrieval (IR) as well as on automated machine learning (AutoML), meta-learning and algorithm selection. Domains we are particularly interested in include smart places, eHealth, manufacturing (industry 4.0), mobility, visual computing, and digital libraries.
 
-<!--
+We founded and maintain, among others, Darwin & Goliath, Recommender-Systems.com, Mr. DLib, and Docear, each with thousand of users; we contributed to TensorFlow, JabRef and others; and we developed the first prototypes of automated recommender systems (AutoSurprise and Auto-CaseRec) and Federated Meta Learning (FMLearn Server and Client).
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+Our homepage: https://isg.beel.org/
+
+Our code: https://code.isg.beel.org/
+
+Twitter 1: https://twitter.com/JoeranBeel
+
+Twitter 2: https://twitter.com/RecSys_c
